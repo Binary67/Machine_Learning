@@ -1,2 +1,2 @@
-# Machine_Learning_Implementations
+# Machine Learning Implementations
 Collections of Machine Learning Algorithms Implementation
