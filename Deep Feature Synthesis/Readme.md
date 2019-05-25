@@ -8,3 +8,4 @@ Feature Engineering is one of the most important element in machine learning. Fo
 Featuretools is a framework to perform automated feature engineering. It excels at transforming temporal and relational datasets into feature matrices for machine learning. In this repo, we are using the titanic dataset from Kaggle, and try to use Deep Feature Synthesis to create additional features for the dataset.
 
 ## Refer to Output.png for the produced output
+![alt text](https://github.com/Binary67/Machine_Learning_Implementations/blob/master/Deep%20Feature%20Synthesis/Output.PNG)
